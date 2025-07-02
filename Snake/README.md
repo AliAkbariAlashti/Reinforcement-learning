@@ -37,10 +37,6 @@ This project implements a classic Snake game powered by a simple **Q-Learning** 
 - ✅ Python 3.8+
 - ✅ [Pygame](https://www.pygame.org/) library
 
-To install Pygame, run:
-```bash
-pip install pygame
-
 🚀 How to Run
 Download the maze_qlearning.py file.
 
